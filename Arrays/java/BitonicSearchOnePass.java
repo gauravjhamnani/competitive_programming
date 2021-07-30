@@ -1,4 +1,4 @@
-public class Solution {
+public class BitonicSearchOnePass {
 
 
     // https://www.interviewbit.com/problems/search-in-bitonic-array/

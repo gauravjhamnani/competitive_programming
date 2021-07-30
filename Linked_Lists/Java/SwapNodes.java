@@ -8,7 +8,7 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
-class Solution {
+class SwapNodes {
 
     // https://leetcode.com/problems/swapping-nodes-in-a-linked-list
 

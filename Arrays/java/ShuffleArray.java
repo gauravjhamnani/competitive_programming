@@ -2,7 +2,7 @@ import java.lang.Math;
 
 // https://leetcode.com/explore/challenge/card/july-leetcoding-challenge-2021/610/week-3-july-15th-july-21st/3820/
 
-class Solution {
+class ShuffleArray {
     
     private final int[] originalArray;
 

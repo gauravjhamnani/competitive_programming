@@ -8,12 +8,12 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
-class Solution {
+class RemNthNodeFromEndV2 {
 
     // https://leetcode.com/problems/remove-nth-node-from-end-of-list/solution/
 
     /*
-    * This approach does not needs only one pass
+    * This approach needs only one pass
     */
 
     public ListNode removeNthFromEnd(ListNode head, int n) {

@@ -1,4 +1,4 @@
-class Solution {
+class LongestSubstringWithKDisInt {
     
     // https://practice.geeksforgeeks.org/problems/longest-k-unique-characters-substring0853
     

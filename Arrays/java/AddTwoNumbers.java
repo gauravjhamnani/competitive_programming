@@ -8,7 +8,7 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
-class Solution {
+class AddTwoNumbers {
 
     // https://leetcode.com/problems/add-two-numbers
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {

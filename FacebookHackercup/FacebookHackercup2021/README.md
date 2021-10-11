@@ -1,1 +1,0 @@
-[Gaurav Jhamnani (jhamnanigaurav)'s certificate for Facebook Hacker Cup - 2021.pdf](https://github.com/gauravjhamnani/competitive_programming/files/7322996/Gaurav.Jhamnani.jhamnanigaurav.s.certificate.for.Facebook.Hacker.Cup.-.2021.pdf)
